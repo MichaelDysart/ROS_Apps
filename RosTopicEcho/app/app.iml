@@ -99,7 +99,6 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 25 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="visualization_msgs-1.11.9" level="project" />
     <orderEntry type="library" exported="" name="apache_xmlrpc_common-0.2.2" level="project" />
     <orderEntry type="library" exported="" name="dnsjava-2.1.1" level="project" />
     <orderEntry type="library" exported="" name="rosgraph_msgs-1.11.2" level="project" />
@@ -134,9 +133,9 @@
     <orderEntry type="library" exported="" name="ws-commons-util-1.0.1" level="project" />
     <orderEntry type="library" exported="" name="appcompat-v7-25.0.0" level="project" />
     <orderEntry type="library" exported="" name="support-vector-drawable-25.0.0" level="project" />
-    <orderEntry type="library" exported="" name="actionlib_msgs-1.12.5" level="project" />
-    <orderEntry type="library" exported="" name="com.springsource.org.apache.commons.io-1.4.0" level="project" />
     <orderEntry type="library" exported="" name="netty-3.5.2.Final" level="project" />
+    <orderEntry type="library" exported="" name="com.springsource.org.apache.commons.io-1.4.0" level="project" />
+    <orderEntry type="library" exported="" name="actionlib_msgs-1.12.5" level="project" />
     <orderEntry type="library" exported="" name="com.springsource.org.apache.commons.lang-2.4.0" level="project" />
     <orderEntry type="library" exported="" name="com.springsource.org.apache.commons.httpclient-3.1.0" level="project" />
     <orderEntry type="library" exported="" name="diagnostic_msgs-1.11.9" level="project" />
