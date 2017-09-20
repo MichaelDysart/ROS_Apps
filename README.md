@@ -1,3 +1,3 @@
 # ROS_Apps
 
-Some Android applications for interacting with ROS
+Android applications for interacting with the Robotic Operating System
